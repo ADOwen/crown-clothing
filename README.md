@@ -14,4 +14,4 @@ A basic ecommerce website where you can shop for clothing
 
 ## Live
 
-https://game-hub-allan.vercel.app/
+https://allans-crown-clothing.netlify.app/
